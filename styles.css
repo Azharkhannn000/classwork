@@ -1,0 +1,39 @@
+img{
+    width: 50px;
+    align-self: center;
+}
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+    font-size: 12px;
+    padding: 100px;
+}
+h3{
+    color: orange;
+    font-size: 12px;
+}
+.container{
+    background-color: white;
+    border-radius: 5px;
+    padding: 100px;
+    margin: auto;
+    width: 300px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgb(172, 170, 170), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+button{
+    background-color: rgb(3, 3, 85);
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 7px;
+}
+p{
+    color: rgb(7, 7, 90);
+}
